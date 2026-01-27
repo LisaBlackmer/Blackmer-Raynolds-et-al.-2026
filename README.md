@@ -1,4 +1,4 @@
-# Blackmer-Raynolds et al., 2025 Code Repository
+# Blackmer-Raynolds et al., 2026 Code Repository
 
 This GitHub repository contains the code for the paper titled: "Indigenous gut microbes modulate neural cell state and neurodegenerative disease
 susceptibility." For a detailed description of the methods and results, please refer to the [paper](#). *Note: The paper is currently under review and the links will be updated once it is published.*
