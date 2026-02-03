@@ -1,7 +1,7 @@
 # Blackmer-Raynolds et al., 2026 Code Repository
 
 This GitHub repository contains the code for the paper titled: "Indigenous gut microbes modulate neural cell state and neurodegenerative disease
-susceptibility." For a detailed description of the methods and results, please refer to the [paper](#). *Note: The paper is currently under review and the links will be updated once it is published.*
+susceptibility." For a detailed description of the methods and results, please refer to the [paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(25)00314-X).
 
 While this code is meant to offer insights into our study methods and approach, it is not expected to function directly out-of-the-box for reproduction of our results. Should you have any questions or want further clarification, feel free to reach out.
 
@@ -51,6 +51,6 @@ The data used in this study is available through the Gene Expression Omnibus (GE
 The contributors and resources used to make each script are detailed in the header comments of the respective script files. Packages/programs are listed in the `dependencies.txt` files (for alignment scripts) and in the `renv.lock` file (for R scripts) and cited in the paper.
 
 If you use this code, please cite the paper as follows:
-> Citation
+> Blackmer-Raynolds, L., Lipson, L.D., Kozlov, A., Yang, A., Hill, E.J., Sampson, M.M., Hamilton A.M., Fraccaroli, I., Kelly, S.D., Chopra P., Chang, J., Sloan, S.A., Sampson, T.R. (2026). Indigenous gut microbes modulate neural cell state and neurodegenerative disease susceptibility. Cell Systems *17*. 10.1016/j.cels.2025.101481.
 
 
